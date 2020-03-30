@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Кирилл/Documents/Downloads/lab1/lab1/rtl/hex_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Кирилл/Documents/Downloads/lab1/lab1/tb/hex_test_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_test_tb
